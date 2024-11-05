@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    padding-top:2em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+
+.mar{
+    height:24px
+}
+
+.legend{
+    font-size: 12px;
+}
+.footer{
+    font-size: 14px;
+}
